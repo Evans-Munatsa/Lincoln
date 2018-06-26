@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "79749794114",
+    "firebase_url": "https://lincoln-e952a.firebaseio.com",
+    "project_id": "lincoln-e952a",
+    "storage_bucket": "lincoln-e952a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79749794114:android:b26215e96f32b68e",
+        "android_client_info": {
+          "package_name": "com.glassboxtech.evansmunatsa.androiddesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79749794114-k69p370267ji5qb1jgdr9hlqbr1evbav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glassboxtech.evansmunatsa.androiddesign",
+            "certificate_hash": "a1df04a5a9b38a3a5b3dd4dddd5b8c6b81c8df3b"
+          }
+        },
+        {
+          "client_id": "79749794114-479b0sr83ju2kc4spln01vl98ulvs5aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vStkFAMIPVGv9q41OePrGDqpzjNzq5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79749794114-479b0sr83ju2kc4spln01vl98ulvs5aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79749794114:android:19a73c10178cd02f",
+        "android_client_info": {
+          "package_name": "com.glassboxtech.evansmunatsa.lincoln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79749794114-7inb2p5pf2fhcf44l5krbj4p83n3lv9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.glassboxtech.evansmunatsa.lincoln",
+            "certificate_hash": "a1df04a5a9b38a3a5b3dd4dddd5b8c6b81c8df3b"
+          }
+        },
+        {
+          "client_id": "79749794114-479b0sr83ju2kc4spln01vl98ulvs5aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vStkFAMIPVGv9q41OePrGDqpzjNzq5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79749794114-479b0sr83ju2kc4spln01vl98ulvs5aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
