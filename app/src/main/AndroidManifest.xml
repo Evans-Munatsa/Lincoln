@@ -30,6 +30,8 @@
             android:name=".activities.SignupActivity"
             android:label="@string/title_activity_login"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".activities.DataViewActivity" />
+        <activity android:name=".activities.EditActivity"></activity>
     </application>
 
 </manifest>

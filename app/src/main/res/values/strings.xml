@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lincoln</string>
+    <string name="app_name">Adventech Gadget Catalog</string>
     <string name="action_sign_in_short">Register</string>
     <string name="email">Email</string>
     <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
@@ -28,4 +28,9 @@
     <string name="btn_sign_out">Sign Out</string>
     <string name="lbl_forgot_password">Forgot password?</string>
     <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">GHETTO YOUTHS</string>
+    <string name="backdrop_subtitle">Support Ghetto youths in music</string>
 </resources>
